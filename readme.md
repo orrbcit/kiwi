@@ -1,4 +1,5 @@
-This is a web project.
+This is a web project with files organized in the following way.
+
 The top level contains these files:
 * index.html
 * readme.md
